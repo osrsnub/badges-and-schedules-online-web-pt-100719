@@ -1,5 +1,6 @@
 attendees=[Esdger, Ada, Charles, Alan, Grace, Linus, Matz]
 
-def badge_maker(name) = "Hello, my name is {#name}"
+def badge_maker(name)
+  "Hello, my name is {#name}"
 end
 
