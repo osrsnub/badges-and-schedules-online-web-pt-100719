@@ -1,4 +1,4 @@
-attendees=[Esdger, Ada, Charles, Alan, Grace, Linus, Matz]
+attendees = [Esdger, Ada, Charles, Alan, Grace, Linus, Matz]
 
 def badge_maker(name)
   "Hello, my name is {#name}"
